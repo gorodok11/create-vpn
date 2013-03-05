@@ -1,0 +1,3 @@
+create vpn serivce cmd: bash create_vpn #output ip, username, password
+restart vpn service cmd: vpnrestart
+close vpn service cmd: killall pptpd
